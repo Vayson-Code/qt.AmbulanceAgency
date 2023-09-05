@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IMG/ADD.png</file>
+        <file>IMG/ALERT_BUTTON.png</file>
+        <file>IMG/AMBULANCE_BUTTON.png</file>
+        <file>IMG/DELETE.png</file>
+        <file>IMG/DRIVER_BUTTON.png</file>
+        <file>IMG/EDIT.png</file>
+        <file>IMG/EMT_BUTTON.png</file>
+        <file>IMG/EQUIPMENT_BUTTON.png</file>
+        <file>IMG/PATIENT_BUTTON.png</file>
+        <file>IMG/PDF.png</file>
+        <file>IMG/STAT.png</file>
+        <file>IMG/VIEW.png</file>
+        <file>IMG/LOGO.png</file>
+        <file>IMG/NOTIFICATION.png</file>
+        <file>INTRO.mp4</file>
+        <file>IMG/ES_Multimedia 839 - SFX Producer.wav</file>
+    </qresource>
+</RCC>
